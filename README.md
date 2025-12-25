@@ -15,3 +15,28 @@ Aplikasi *Pengolahan Data Produksi Harian untuk Home Industri* adalah sistem ber
 - Log Aktivitas Sistem
 - Mode Offline (tanpa internet)
 - Tanpa Class / OOP (hanya fungsi def)
+
+
+pengolahan-produksi-harian/
+│── app.py                    # File utama Streamlit
+│── requirements.txt          # Daftar library Python
+│── README.md                 # Dokumentasi project
+│
+├── modules/
+│   ├── auth.py               # Autentikasi & manajemen user
+│   ├── database.py           # CRUD data produksi & backup
+│   ├── qr_handler.py         # Generate & scan QR Code
+│   ├── charts.py             # Grafik produksi
+│   ├── ui.py                 # Tampilan halaman aplikasi
+│
+├── data/
+│   └── produksi.csv          # Data produksi harian
+│
+├── qr/
+│   └── *.png                 # QR Code data produksi
+│
+├── backup/
+│   └── *.zip                 # Backup otomatis data
+│
+├── assets/
+│   └── screenshot.png        # Screenshot aplikasi
