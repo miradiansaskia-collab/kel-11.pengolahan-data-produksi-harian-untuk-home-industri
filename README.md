@@ -43,7 +43,7 @@ pengolahan-produksi-harian/
 
 ![WhatsApp Image 2025-12-25 at 12 27 05](https://github.com/user-attachments/assets/1b89be87-cfbb-4c70-b33f-b152b3c96718)
 
-![WhatsApp I![WhatsApp Image 2025-12-25 at 12 28 39](https://github.com/user-attachments/assets/47fde7e8-ddd6-4e64-a81c-052149057306)
+![WhatsApp Image 2025-12-25 at 12 28 39](https://github.com/user-attachments/assets/47fde7e8-ddd6-4e64-a81c-052149057306)
 
 ![WhatsApp Image 2025-12-25 at 12 27 59](https://github.com/user-attachments/assets/83bbb6d2-8566-4371-9936-06c9d95ffaf2)
 
