@@ -40,3 +40,10 @@ pengolahan-produksi-harian/
 │
 ├── assets/
 │   └── screenshot.png        
+
+![WhatsApp I![WhatsApp Image 2025-12-25 at 12 28 39](https://github.com/user-attachments/assets/47fde7e8-ddd6-4e64-a81c-052149057306)
+
+mage 2025-12-25 at 12 27 05](https://github.com/user-attachments/assets/e9abbd08-85b2-4c20-b388-d738f2838294)
+
+![WhatsApp Image 2025-12-25 at 12 27 59](https://github.com/user-attachments/assets/83bbb6d2-8566-4371-9936-06c9d95ffaf2)
+
