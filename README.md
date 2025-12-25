@@ -2,3 +2,16 @@
 
 ## 📌 Deskripsi Singkat Aplikasi
 Aplikasi *Pengolahan Data Produksi Harian untuk Home Industri* adalah sistem berbasis web yang dikembangkan menggunakan *Python dan Streamlit* untuk membantu pelaku home industri dalam mencatat, mengelola, dan memantau data produksi harian secara digital.  
+
+
+## ✨ fitur utama
+- Login Admin dan Karyawan
+- CRUD Data Karyawan (Admin saja)
+- Generate QR Code dari ID barang
+- Scan QR Code via Kamera (Streamlit camera_input)
+- Download QR Code (PNG)
+
+
+- Log Aktivitas Sistem
+- Mode Offline (tanpa internet)
+- Tanpa Class / OOP (hanya fungsi def)
